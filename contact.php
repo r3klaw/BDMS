@@ -37,8 +37,6 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject']) &
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <script type="text/javascript" src="js/script.js"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPYMI9P4d29sp8AGl_4z9py1ZEt8YXmcI&callback=myMap"
-  type="text/javascript"></script>
 
 
 </head>
@@ -64,11 +62,11 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject']) &
 		</ul>
 	</div>
 	<span class="info2" style="left: 40%">CONTACT</span>
-	<img class="myFrontPic col-12" src="images/img11.jpg" style="height: 350px;">
+	<img class="myFrontPic col-12" src="images/img7.jpg" style="height: 350px;">
 </div>
 <br>
 	<div style="margin: 0; padding: 0; text-align: center; overflow: auto;">
-		<div id="map" style="margin: 0; width:100%;height:400px;background:yellow">My map will go here</div>
+		<div id="map" style="margin: 0; width:100%;height:400px;background:yellow"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3989.19240971805!2d35.00285526475366!3d1.0148991992596768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ske!4v1570270945916!5m2!1sen!2ske" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div>
 		<div class="col-6" style="float: left; text-align: left; padding: 5%; background-color: rgb(217, 219, 224);">
 		<h1 style="color: blue;">SUGGESTION</h1>
 			<form action="contact.php" method="post">
@@ -90,10 +88,10 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject']) &
 
 		<div class="col-3" style="width: 15%;float: right; background-color: rgb(217, 219, 224); overflow: auto; text-align: left; margin: 0 3% 3% 3%">
 			<h1 align="center" style="color: rgb(76, 109, 86); font-size: 20px;margin: 5%;">CONTACT</h1>
-			<div align="center" style="height: 120px; width: 120px;margin: 5%;margin-left: 20%"><img class="im" src="deepppp.jpg"></div>
+			<div align="center" style="height: 120px; width: 120px;margin: 5%;margin-left: 20%"><img class="im" src="images/img16.png"></div>
 			
-			<p align="center" style="color: rgb(76, 109, 86); font-size: 20px;margin: 5%;">Deepak Kumrawat</p>
-			<p align="center" style="color: rgb(76, 109, 86); font-size: 20px;margin: 5%;">7898378532</p>
+			<p align="center" style="color: rgb(76, 109, 86); font-size: 20px;margin: 5%;">David Rashid</p>
+			<p align="center" style="color: rgb(76, 109, 86); font-size: 20px;margin: 5%;">+254791371657</p>
 		</div>
 	</div>
 

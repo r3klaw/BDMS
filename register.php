@@ -85,7 +85,7 @@ if(isset($_POST['fullname']) && isset($_POST['gender']) && isset($_POST['dob']) 
 		</ul>
 	</div>
 	<span class="info2" style="left: 40%">REGISTER</span>
-	<img class="myFrontPic col-12" src="images/img1.jpg" style="height: 350px;">
+	<img class="myFrontPic col-12" src="images/img7.jpg" style="height: 350px;">
 </div>
 	<div class="col-12" style="overflow: auto; padding: 0 20% 0 20%;">
 		<div class="col-12" style="text-align: left; padding: 5%; background-color: rgb(217, 219, 224);">

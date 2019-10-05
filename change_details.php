@@ -38,7 +38,7 @@ require "DB_conn.php";
 		</ul>
 	</div>
 	<span class="info2" style="left: 33%">CHANGE DETAILS</span>
-	<img class="myFrontPic col-12" src="images/img10.jpg">
+	<img class="myFrontPic col-12" src="images/img7.jpg">
 </div>
 	
 
